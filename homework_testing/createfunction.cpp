@@ -1,11 +1,10 @@
 #include <iostream>
 #include <cmath>
-using namespace std;
 
 float calc_sum(unsigned int x[], int size) {
     float sum = 0;
-    for (int i = 0; i < size; i++) {
-        sum += x[i];
+    for (size_t)
+}
     }
     return sum;
 }
